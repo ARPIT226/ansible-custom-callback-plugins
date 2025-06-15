@@ -13,5 +13,5 @@ ansible-playbook →
   reads ansible.cfg →
     loads custom plugin →
       plugin says: " Playbook is starting..."
-      runs your tasks
+      runs tasks
       plugin says: " Playbook completed" ```
